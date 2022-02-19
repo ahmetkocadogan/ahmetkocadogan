@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'am author and maintainer of the MessageBird WhatsApp Adapter for Microsoft Bot Builder repo.
+
+If you need any help on this adapter, feel free to reach me out!
+
+If my work is useful to you, and if you want o support me, you can buy me a coffee :)
+
+<a href="https://www.buymeacoffee.com/ahmetkocadogan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <!--
 **ahmetkocadogan/ahmetkocadogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
